@@ -1,9 +1,9 @@
 {
-  "author": "LobeHub",
+  "author": "AiPMHub",
   "createdAt": "2024-01-18",
-  "homepage": "https://github.com/lobehub/chat-plugin-midjourney",
+  "homepage": "https://github.com/aipmhub/chat-plugin-midjourney",
   "identifier": "midjourney",
-  "manifest": "https://midjourney.chat-plugin.lobehub.com/manifest.json",
+  "manifest": "https://midjourney.chat-plugin.theforage.cn/manifest.json",
   "meta": {
     "avatar": "https://cdn.discordapp.com/icons/662267976984297473/39128f6c9fc33f4c95a27d4c601ad7db.webp",
     "title": "Midjourney",

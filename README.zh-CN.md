@@ -8,13 +8,13 @@
 
 [**提交您的插件 >>**][submit]
 
-[Lobe Chat](https://github.com/lobehub/lobe-chat) 从该存储库访问 [`index.json`][website-url] 来为用户展示可用的 Function Calling 插件列表。
+[Lobe Chat](https://github.com/aipmhub/lobe-chat) 从该存储库访问 [`index.json`][website-url] 来为用户展示可用的 Function Calling 插件列表。
 
 [English](./README.md) · **简体中文**
 
 <!-- SHIELD GROUP -->
 
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lobehub/lobe-chat-plugins)
+[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aipmhub/lobe-chat-plugins)
 [![website][website-shield]][website-url]
 [![][github-action-test-shield]][github-action-test-link]
 [![][github-action-release-shield]][github-action-release-link]<br/>
@@ -23,7 +23,7 @@
 [![][github-stars-shield]][github-stars-link]
 [![][github-issues-shield]][github-issues-link]
 
-[![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268670883-33c43a5c-a512-467e-855c-fa299548cce5.png)](https://github.com/lobehub/lobe-chat)
+[![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268670883-33c43a5c-a512-467e-855c-fa299548cce5.png)](https://github.com/aipmhub/lobe-chat)
 
 </div>
 
@@ -244,7 +244,7 @@
 
 ### Steam
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-steam)** on **2024-01-27**</sup>
 
 从 Steam 获取游戏信息和用户评论。
 
@@ -260,7 +260,7 @@
 
 ### 哔哩哔哩
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-bilibili)** on **2024-01-27**</sup>
 
 通过关键词视频搜索、回放访问、互动弹幕、热门视频推荐和热搜洞察等功能，深入体验哔哩哔哩丰富的内容，尽在您的指尖。
 
@@ -724,7 +724,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### Midjourney
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-midjourney)** on **2024-01-18**</sup>
 
 通过简单的提示轻松释放创造力，利用 Midjourney 生成独特的 AI 驱动图像。通过 Midjourney 的艺术触感为您的对话增添视觉魅力。
 
@@ -900,7 +900,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### 时钟时间
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-clock-time)** on **2023-11-01**</sup>
 
 显示一个时钟来展示当前时间
 
@@ -916,7 +916,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### 网站爬虫
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
 
 从网页链接中提取内容
 
@@ -932,7 +932,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### 搜索引擎
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-search-engine)** on **2023-08-15**</sup>
 
 查询搜索引擎以获取信息
 
@@ -948,7 +948,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### 实时天气
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
 
 获取实时天气信息
 
@@ -989,7 +989,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 [![][bun-shield]][bun-link]
 
 ```bash
-$ git clone https://github.com/lobehub/lobe-chat-plugins.git
+$ git clone https://github.com/aipmhub/lobe-chat-plugins.git
 $ cd lobe-chat-plugins
 $ bun install
 ```
@@ -1023,8 +1023,8 @@ $ bun install
 
 ## 🔗 Links
 
-- **[🤖 Lobe Chat](https://github.com/lobehub/lobe-chat)** - LobeChat 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，支持一键免费部署私人 ChatGPT/LLM 网页应用程序
-- **[🤖 / 🏪 Agent Index](https://github.com/lobehub/lobe-chat-agents)** - Lobe Chat 从该存储库访问 index.json 来为用户展示可用的 LobeChat 助手列表。
+- **[🤖 Lobe Chat](https://github.com/aipmhub/lobe-chat)** - LobeChat 是一个开源的、可扩展的（Function Calling）高性能聊天机器人框架，支持一键免费部署私人 ChatGPT/LLM 网页应用程序
+- **[🤖 / 🏪 Agent Index](https://github.com/aipmhub/lobe-chat-agents)** - Lobe Chat 从该存储库访问 index.json 来为用户展示可用的 LobeChat 助手列表。
 
 <div align="right">
 
@@ -1036,7 +1036,7 @@ $ bun install
 
 #### 📝 License
 
-Copyright © 2023 [LobeHub][profile-url]. <br />
+Copyright © 2023 [AiPMHub][profile-url]. <br />
 This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
@@ -1045,25 +1045,25 @@ This project is [MIT](./LICENSE) licensed.
 [bun-link]: https://bun.sh
 [bun-shield]: https://img.shields.io/badge/-speedup%20with%20bun-black?logo=bun&style=for-the-badge
 [deploy-shield]: https://vercel.com/button
-[deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
-[github-action-release-link]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/release.yml
+[deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Faipmhub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
+[github-action-release-link]: https://github.com/aipmhub/lobe-chat-plugins/actions/workflows/release.yml
 [github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-chat-plugins/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/test.yml
+[github-action-test-link]: https://github.com/aipmhub/lobe-chat-plugins/actions/workflows/test.yml
 [github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-chat-plugins/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
 [github-codespace-link]: https://codespaces.new/lobehub/lobe-chat-plugins
 [github-codespace-shield]: https://github.com/codespaces/badge.svg
-[github-contrib-link]: https://github.com/lobehub/lobe-chat-plugins/graphs/contributors
-[github-contrib-shield]: https://contrib.rocks/image?repo=lobehub%2Flobe-chat-plugins
-[github-contributors-link]: https://github.com/lobehub/lobe-chat-plugins/graphs/contributors
+[github-contrib-link]: https://github.com/aipmhub/lobe-chat-plugins/graphs/contributors
+[github-contrib-shield]: https://contrib.rocks/image?repo=aipmhub%2Flobe-chat-plugins
+[github-contributors-link]: https://github.com/aipmhub/lobe-chat-plugins/graphs/contributors
 [github-contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-chat-plugins?color=c4f042&labelColor=black&style=flat-square
-[github-forks-link]: https://github.com/lobehub/lobe-chat-plugins/network/members
+[github-forks-link]: https://github.com/aipmhub/lobe-chat-plugins/network/members
 [github-forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-chat-plugins?color=8ae8ff&labelColor=black&style=flat-square
-[github-issues-link]: https://github.com/lobehub/lobe-chat-plugins/issues
+[github-issues-link]: https://github.com/aipmhub/lobe-chat-plugins/issues
 [github-issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-chat-plugins?color=ff80eb&labelColor=black&style=flat-square
-[github-stars-link]: https://github.com/lobehub/lobe-chat-plugins/network/stargazers
+[github-stars-link]: https://github.com/aipmhub/lobe-chat-plugins/network/stargazers
 [github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat-plugins?color=ffcb47&labelColor=black&style=flat-square
 [pr-welcome-shield]: https://img.shields.io/badge/🧩/🏪_submit_plugin-%E2%86%92-95f3d9?labelColor=black&style=for-the-badge
-[profile-url]: https://github.com/lobehub
-[submit]: https://github.com/lobehub/lobe-chat-plugins/pulls
-[website-shield]: https://img.shields.io/website?down_message=offline&label=chat-plugins.lobehub.com&up_message=online&url=https%3A%2F%2Fchat-plugins.lobehub.com&labelColor=black&logo=vercel&style=flat-square
-[website-url]: https://chat-plugins.lobehub.com
+[profile-url]: https://github.com/aipmhub
+[submit]: https://github.com/aipmhub/lobe-chat-plugins/pulls
+[website-shield]: https://img.shields.io/website?down_message=offline&label=chat-plugins.theforage.cn&up_message=online&url=https%3A%2F%2Fchat-plugins.theforage.cn&labelColor=black&logo=vercel&style=flat-square
+[website-url]: https://chat-plugins.theforage.cn

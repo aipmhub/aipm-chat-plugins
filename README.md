@@ -8,13 +8,13 @@
 
 [**Submit Your Plugin >>**][submit]
 
-[Lobe Chat](https://github.com/lobehub/lobe-chat) accesses [`index.json`][website-url] from this repo to show user the list of available plugins for Function Calling.
+[Lobe Chat](https://github.com/aipmhub/lobe-chat) accesses [`index.json`][website-url] from this repo to show user the list of available plugins for Function Calling.
 
 **English** · [简体中文](./README.zh-CN.md)
 
 <!-- SHIELD GROUP -->
 
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/lobehub/lobe-chat-plugins)
+[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/aipmhub/lobe-chat-plugins)
 [![website][website-shield]][website-url]
 [![][github-action-test-shield]][github-action-test-link]
 [![][github-action-release-shield]][github-action-release-link]<br/>
@@ -23,7 +23,7 @@
 [![][github-stars-shield]][github-stars-link]
 [![][github-issues-shield]][github-issues-link]
 
-[![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268670883-33c43a5c-a512-467e-855c-fa299548cce5.png)](https://github.com/lobehub/lobe-chat)
+[![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268670883-33c43a5c-a512-467e-855c-fa299548cce5.png)](https://github.com/aipmhub/lobe-chat)
 
 </div>
 
@@ -244,7 +244,7 @@ Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coi
 
 ### Steam
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-steam)** on **2024-01-27**</sup>
 
 Obtain game information and user reviews from Steam.
 
@@ -260,7 +260,7 @@ Obtain game information and user reviews from Steam.
 
 ### Bilibili
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-bilibili)** on **2024-01-27**</sup>
 
 Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
 
@@ -724,7 +724,7 @@ Realtime stock, crypto and other investment data.
 
 ### Midjourney
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-midjourney)** on **2024-01-18**</sup>
 
 Unleash creativity with Midjourney, effortlessly generating unique AI-driven images through simple prompts. Add visual flair to your conversations with Midjourney's artistic touch.
 
@@ -900,7 +900,7 @@ Generate images through pollinations.ai
 
 ### Clock Time
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-clock-time)** on **2023-11-01**</sup>
 
 Display a clock to show current time
 
@@ -916,7 +916,7 @@ Display a clock to show current time
 
 ### Website Crawler
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
 
 Extract content from web links
 
@@ -932,7 +932,7 @@ Extract content from web links
 
 ### Search Engine
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-search-engine)** on **2023-08-15**</sup>
 
 Query search engine to get information
 
@@ -948,7 +948,7 @@ Query search engine to get information
 
 ### Realtime Weather
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
 
 Get realtime weather information
 
@@ -989,7 +989,7 @@ Or clone it for local development:
 [![][bun-shield]][bun-link]
 
 ```bash
-$ git clone https://github.com/lobehub/lobe-chat-plugins.git
+$ git clone https://github.com/aipmhub/lobe-chat-plugins.git
 $ cd lobe-chat-plugins
 $ bun install
 ```
@@ -1023,8 +1023,8 @@ Contributions of all types are more than welcome, if you are interested in contr
 
 ## 🔗 Links
 
-- **[🤖 Lobe Chat](https://github.com/lobehub/lobe-chat)** - An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
-- **[🤖 / 🏪 Agent Index](https://github.com/lobehub/lobe-chat-agents)** - Lobe Chat accesses index.json from this repo to show user the list of available agents for LobeChat.
+- **[🤖 Lobe Chat](https://github.com/aipmhub/lobe-chat)** - An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
+- **[🤖 / 🏪 Agent Index](https://github.com/aipmhub/lobe-chat-agents)** - Lobe Chat accesses index.json from this repo to show user the list of available agents for LobeChat.
 
 <div align="right">
 
@@ -1036,7 +1036,7 @@ Contributions of all types are more than welcome, if you are interested in contr
 
 #### 📝 License
 
-Copyright © 2023 [LobeHub][profile-url]. <br />
+Copyright © 2023 [AiPMHub][profile-url]. <br />
 This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
@@ -1045,25 +1045,25 @@ This project is [MIT](./LICENSE) licensed.
 [bun-link]: https://bun.sh
 [bun-shield]: https://img.shields.io/badge/-speedup%20with%20bun-black?logo=bun&style=for-the-badge
 [deploy-shield]: https://vercel.com/button
-[deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
-[github-action-release-link]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/release.yml
+[deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Faipmhub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
+[github-action-release-link]: https://github.com/aipmhub/lobe-chat-plugins/actions/workflows/release.yml
 [github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-chat-plugins/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/lobehub/lobe-chat-plugins/actions/workflows/test.yml
+[github-action-test-link]: https://github.com/aipmhub/lobe-chat-plugins/actions/workflows/test.yml
 [github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-chat-plugins/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
 [github-codespace-link]: https://codespaces.new/lobehub/lobe-chat-plugins
 [github-codespace-shield]: https://github.com/codespaces/badge.svg
-[github-contrib-link]: https://github.com/lobehub/lobe-chat-plugins/graphs/contributors
-[github-contrib-shield]: https://contrib.rocks/image?repo=lobehub%2Flobe-chat-plugins
-[github-contributors-link]: https://github.com/lobehub/lobe-chat-plugins/graphs/contributors
+[github-contrib-link]: https://github.com/aipmhub/lobe-chat-plugins/graphs/contributors
+[github-contrib-shield]: https://contrib.rocks/image?repo=aipmhub%2Flobe-chat-plugins
+[github-contributors-link]: https://github.com/aipmhub/lobe-chat-plugins/graphs/contributors
 [github-contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-chat-plugins?color=c4f042&labelColor=black&style=flat-square
-[github-forks-link]: https://github.com/lobehub/lobe-chat-plugins/network/members
+[github-forks-link]: https://github.com/aipmhub/lobe-chat-plugins/network/members
 [github-forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-chat-plugins?color=8ae8ff&labelColor=black&style=flat-square
-[github-issues-link]: https://github.com/lobehub/lobe-chat-plugins/issues
+[github-issues-link]: https://github.com/aipmhub/lobe-chat-plugins/issues
 [github-issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-chat-plugins?color=ff80eb&labelColor=black&style=flat-square
-[github-stars-link]: https://github.com/lobehub/lobe-chat-plugins/network/stargazers
+[github-stars-link]: https://github.com/aipmhub/lobe-chat-plugins/network/stargazers
 [github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat-plugins?color=ffcb47&labelColor=black&style=flat-square
 [pr-welcome-shield]: https://img.shields.io/badge/🧩/🏪_submit_plugin-%E2%86%92-95f3d9?labelColor=black&style=for-the-badge
-[profile-url]: https://github.com/lobehub
-[submit]: https://github.com/lobehub/lobe-chat-plugins/pulls
-[website-shield]: https://img.shields.io/website?down_message=offline&label=chat-plugins.lobehub.com&up_message=online&url=https%3A%2F%2Fchat-plugins.lobehub.com&labelColor=black&logo=vercel&style=flat-square
-[website-url]: https://chat-plugins.lobehub.com
+[profile-url]: https://github.com/aipmhub
+[submit]: https://github.com/aipmhub/lobe-chat-plugins/pulls
+[website-shield]: https://img.shields.io/website?down_message=offline&label=chat-plugins.theforage.cn&up_message=online&url=https%3A%2F%2Fchat-plugins.theforage.cn&labelColor=black&logo=vercel&style=flat-square
+[website-url]: https://chat-plugins.theforage.cn
