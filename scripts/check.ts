@@ -1,4 +1,4 @@
-import { pluginMetaSchema } from '@lobehub/chat-plugin-sdk';
+import { pluginMetaSchema } from '@aipmorg/chat-plugin-sdk';
 import { consola } from 'consola';
 import dayjs from 'dayjs';
 

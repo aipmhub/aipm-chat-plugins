@@ -34,8 +34,8 @@ jobs:
 
       - name: Prettier
         run: |
-          echo "module.exports = require('@lobehub/lint').remarklint;" >> .remarkrc.cjs
-          echo "module.exports = require('@lobehub/lint').prettier;" >> .prettierrc.cjs
+          echo "module.exports = require('@aipmorg/lint').remarklint;" >> .remarkrc.cjs
+          echo "module.exports = require('@aipmorg/lint').prettier;" >> .prettierrc.cjs
           bun run lint:md
           bun run prettier
           rm .remarkrc.cjs
@@ -44,8 +44,8 @@ jobs:
       - name: Commit changes
         run: |-
           git diff
-          git config --global user.name "lobehubbot"
-          git config --global user.email "i@lobehub.com"
+          git config --global user.name "aipmhubbot"
+          git config --global user.email "nextprofesionalpower@gmail.com"
           git add .
           git commit -m "🤖 chore: Auto format and add i18n json files" || exit 0
           git push
