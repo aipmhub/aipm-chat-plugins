@@ -1,0 +1,14 @@
+{
+  "author": "AiPMHub",
+  "createdAt": "2024-08-28",
+  "homepage": "https://github.com/aipmhub/chat-plugin-bilibili",
+  "identifier": "bilibili",
+  "manifest": "https://chat-plugin-bilibili.theforage.cn/manifest.json",
+  "meta": {
+    "avatar": "https://chat-plugin-bilibili.theforage.cn/logo.webp",
+    "tags": ["video", "bilibili", "search"],
+    "title": "Bilibili",
+    "description": "Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips."
+  },
+  "schemaVersion": 1
+}
