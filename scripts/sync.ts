@@ -1,11 +1,11 @@
-import { consola } from 'consola';
-import dayjs from 'dayjs';
-import { existsSync, rmSync } from 'fs';
-import pMap from 'p-map';
-import { resolve } from 'path';
+import { consola } from "consola";
+import dayjs from "dayjs";
+import { existsSync, rmSync } from "fs";
+import pMap from "p-map";
+import { resolve } from "path";
 
-import { SYNC_URL, plugins, pluginsDir } from './const';
-import { readJSON, writeJSON } from './utils';
+import { SYNC_URL, plugins, pluginsDir } from "./const";
+import { readJSON, writeJSON } from "./utils";
 
 interface OpenaiMainifest {
   api: {
@@ -46,7 +46,9 @@ const syncCollections = async () => {
     const filePath = resolve(pluginsDir, `${plugin.identifier}.json`);
     const isExist = existsSync(filePath);
 
-    plugin.createdAt = isExist ? readJSON(filePath).createdAt : dayjs().format('YYYY-MM-DD');
+    plugin.createdAt = isExist
+      ? readJSON(filePath).createdAt
+      : dayjs().format("YYYY-MM-DD");
 
     writeJSON(filePath, plugin);
     consola.success(`Synced ${plugin.identifier}`);
@@ -72,7 +74,8 @@ const syncExistPlugins = async () => {
         const json: OpenaiMainifest | PluginMainifest | any = await res.json();
         pluginManifest.identifier = json?.name_for_model || json?.identifier;
         pluginManifest.meta.avatar = json.logo_url || json?.meta?.avatar;
-        if (!pluginManifest.identifier) return consola.warn(`Failed to sync ${plugin.name}`);
+        if (!pluginManifest.identifier)
+          return consola.warn(`Failed to sync ${plugin.name}`);
         writeJSON(filePath, pluginManifest);
         consola.success(`Synced ${pluginManifest.identifier}`);
       } catch (error) {
@@ -84,9 +87,9 @@ const syncExistPlugins = async () => {
 };
 
 const sync = async () => {
-  consola.start('Start sync collections...');
+  consola.start("Start sync collections...");
   await syncCollections();
-  consola.start('Start sync exist plugins...');
+  consola.start("Start sync exist plugins...");
   await syncExistPlugins();
 };
 

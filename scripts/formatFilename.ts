@@ -1,14 +1,14 @@
-import { consola } from 'consola';
-import { renameSync } from 'node:fs';
-import { resolve } from 'node:path';
+import { consola } from "consola";
+import { renameSync } from "node:fs";
+import { resolve } from "node:path";
 
-import { localesDir, pluginLocales, plugins, pluginsDir } from './const';
-import { checkJSON, readJSON } from './utils';
+import { localesDir, pluginLocales, plugins, pluginsDir } from "./const";
+import { checkJSON, readJSON } from "./utils";
 
 const formatFilenameById = (fileName) => {
   const filePath = resolve(pluginsDir, fileName);
   const plugin = readJSON(filePath);
-  const newFilename = plugin.identifier + '.json';
+  const newFilename = plugin.identifier + ".json";
   if (fileName !== newFilename) {
     const newFilepath = resolve(pluginsDir, newFilename);
     renameSync(filePath, newFilepath);
@@ -17,17 +17,19 @@ const formatFilenameById = (fileName) => {
       if (checkJSON(file)) {
         const localeFilename = file.name;
         const localeFilepath = resolve(localesDir, localeFilename);
-        const localeFilenameArray = file.name.split('.');
+        const localeFilenameArray = file.name.split(".");
 
-        if (localeFilenameArray[0] === String(fileName).split('.')[0]) {
+        if (localeFilenameArray[0] === String(fileName).split(".")[0]) {
           const newLocaleFilename = [
             plugin.identifier,
             localeFilenameArray[1],
             localeFilenameArray[2],
-          ].join('.');
+          ].join(".");
           const newLocaleFilepath = resolve(localesDir, newLocaleFilename);
           renameSync(localeFilepath, newLocaleFilepath);
-          consola.success(`rename [${localeFilename}] >> [${newLocaleFilename}]`);
+          consola.success(
+            `rename [${localeFilename}] >> [${newLocaleFilename}]`,
+          );
         }
       }
     }
@@ -35,7 +37,7 @@ const formatFilenameById = (fileName) => {
 };
 
 export const formatFilenames = () => {
-  consola.start('Start format filenames...');
+  consola.start("Start format filenames...");
   for (const file of plugins) {
     if (checkJSON(file)) {
       try {
@@ -45,5 +47,5 @@ export const formatFilenames = () => {
       }
     }
   }
-  consola.success('clean');
+  consola.success("clean");
 };

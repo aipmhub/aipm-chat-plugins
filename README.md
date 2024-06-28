@@ -4,7 +4,7 @@
 
 ### Search Engine
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-search-engine)** on **2024-06-17**</sup>
 
 Query search engine to get information
 

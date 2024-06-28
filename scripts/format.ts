@@ -1,14 +1,21 @@
-import { consola } from 'consola';
-import { get, kebabCase, merge, set } from 'lodash-es';
-import { existsSync } from 'node:fs';
-import { resolve } from 'node:path';
-import pMap from 'p-map';
+import { consola } from "consola";
+import { get, kebabCase, merge, set } from "lodash-es";
+import { existsSync } from "node:fs";
+import { resolve } from "node:path";
+import pMap from "p-map";
 
-import { formatAndCheckSchema } from './check';
-import { config, localesDir, metaPath, plugins, pluginsDir, templatePath } from './const';
-import { formatFilenames } from './formatFilename';
-import { translateJSON } from './i18n';
-import { checkJSON, readJSON, split, writeJSON } from './utils';
+import { formatAndCheckSchema } from "./check";
+import {
+  config,
+  localesDir,
+  metaPath,
+  plugins,
+  pluginsDir,
+  templatePath,
+} from "./const";
+import { formatFilenames } from "./formatFilename";
+import { translateJSON } from "./i18n";
+import { checkJSON, readJSON, split, writeJSON } from "./utils";
 
 const formatJSON = async (fileName, checkType) => {
   consola.start(fileName);
@@ -36,17 +43,27 @@ const formatJSON = async (fileName, checkType) => {
       if (plugin.locale && plugin.locale !== config.entryLocale) {
         if (config.outputLocales.includes(plugin.locale)) {
           writeJSON(
-            resolve(localesDir, fileName.replace('.json', `.${plugin.locale}.json`)),
+            resolve(
+              localesDir,
+              fileName.replace(".json", `.${plugin.locale}.json`),
+            ),
             rawData,
           );
         }
-        rawData = await translateJSON(rawData, config.entryLocale, plugin.locale);
+        rawData = await translateJSON(
+          rawData,
+          config.entryLocale,
+          plugin.locale,
+        );
         plugin = merge(plugin, rawData);
         delete plugin.locale;
       }
 
       for (const locale of config.outputLocales) {
-        const localeFilePath = resolve(localesDir, fileName.replace('.json', `.${locale}.json`));
+        const localeFilePath = resolve(
+          localesDir,
+          fileName.replace(".json", `.${locale}.json`),
+        );
         if (existsSync(localeFilePath)) continue;
         const translateResult = await translateJSON(rawData, locale);
         if (translateResult) {
@@ -62,7 +79,7 @@ const formatJSON = async (fileName, checkType) => {
 };
 
 const runFormat = async () => {
-  consola.start('Start format json content...');
+  consola.start("Start format json content...");
   await formatJSON(metaPath);
   await formatJSON(templatePath);
   await pMap(
@@ -78,9 +95,9 @@ const runFormat = async () => {
 
 // run format
 const run = async () => {
-  split('FORMAT JSON CONTENT');
+  split("FORMAT JSON CONTENT");
   await runFormat();
-  split('FORMAT FILENAME');
+  split("FORMAT FILENAME");
   formatFilenames();
 };
 

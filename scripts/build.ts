@@ -1,10 +1,17 @@
-import { consola } from 'consola';
-import { cloneDeep, merge } from 'lodash-es';
-import { resolve } from 'node:path';
+import { consola } from "consola";
+import { cloneDeep, merge } from "lodash-es";
+import { resolve } from "node:path";
 
-import { formatAndCheckSchema } from './check';
-import { config, localesDir, meta, plugins, pluginsDir, publicDir } from './const';
-import { checkDir, findDuplicates, readJSON, writeJSON } from './utils';
+import { formatAndCheckSchema } from "./check";
+import {
+  config,
+  localesDir,
+  meta,
+  plugins,
+  pluginsDir,
+  publicDir,
+} from "./const";
+import { checkDir, findDuplicates, readJSON, writeJSON } from "./utils";
 
 const build = async () => {
   checkDir(publicDir);
@@ -24,7 +31,10 @@ const build = async () => {
       list[config.entryLocale].push(plugin);
       for (const locale of config.outputLocales) {
         if (!list[locale]) list[locale] = [];
-        const localeFilePath = resolve(localesDir, file.name.replace('.json', `.${locale}.json`));
+        const localeFilePath = resolve(
+          localesDir,
+          file.name.replace(".json", `.${locale}.json`),
+        );
         const localeData = readJSON(localeFilePath);
         list[locale].push(merge(cloneDeep(plugin), localeData));
       }
@@ -47,7 +57,8 @@ const build = async () => {
 
     pluginsIndex.tags = tags;
 
-    const name = locale === config.entryLocale ? `index.json` : `index.${locale}.json`;
+    const name =
+      locale === config.entryLocale ? `index.json` : `index.${locale}.json`;
     writeJSON(resolve(publicDir, name), pluginsIndex, false);
     consola.success(`build ${name}`);
   }

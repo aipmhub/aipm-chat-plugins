@@ -1,12 +1,12 @@
-import { pluginMetaSchema } from '@aipmorg/chat-plugin-sdk';
-import { consola } from 'consola';
-import dayjs from 'dayjs';
+import { pluginMetaSchema } from "@aipmorg/chat-plugin-sdk";
+import { consola } from "consola";
+import dayjs from "dayjs";
 
-import { meta } from './const';
+import { meta } from "./const";
 
 export const formatAndCheckSchema = (plugin) => {
   if (!plugin.schemaVersion) plugin.schemaVersion = meta.schemaVersion;
-  if (!plugin.createdAt) plugin.createdAt = dayjs().format('YYYY-MM-DD');
+  if (!plugin.createdAt) plugin.createdAt = dayjs().format("YYYY-MM-DD");
 
   const result = pluginMetaSchema.safeParse(plugin);
 
@@ -32,9 +32,9 @@ export const checkUniqueIdentifier = (arr) => {
   }
 
   if (duplicates.length > 0) {
-    consola.error('Duplicates identifier:', JSON.stringify(duplicates));
+    consola.error("Duplicates identifier:", JSON.stringify(duplicates));
     process.exit(1);
   } else {
-    consola.success('Unique identifier check pass');
+    consola.success("Unique identifier check pass");
   }
 };
