@@ -2,13 +2,13 @@
 
 **English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS --> 
 
-### Bilibili
+### Search Engine
 
-<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-bilibili)** on **2024-08-28**</sup>
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-search-engine)** on **2024-06-17**</sup>
 
-Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
+Query search engine to get information
 
-`video` `bilibili` `search`
+`web` `search`
 
 <div align="right">
 
@@ -18,13 +18,13 @@ Dive into Bilibili's vast content with features like keyword video search, repla
 
 ---
 
-### Search Engine
+### Website Crawler
 
-<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-search-engine)** on **2024-06-17**</sup>
+<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
 
-Query search engine to get information
+Extract content from web links
 
-`web` `search`
+`web` `content-crawler`
 
 <div align="right">
 
