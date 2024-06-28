@@ -1,9 +1,9 @@
 {
-  "author": "LobeHub",
-  "createdAt": "2023-08-17",
-  "homepage": "https://github.com/lobehub/chat-plugin-web-crawler",
+  "author": "AiPMHub",
+  "createdAt": "2024-06-28",
+  "homepage": "https://github.com/aipmhub/chat-plugin-web-crawler",
   "identifier": "website_crawler",
-  "manifest": "https://web-crawler.chat-plugin.lobehub.com/manifest.json",
+  "manifest": "https://chat-plugin-web-crawler.theforage.cn/manifest.json",
   "meta": {
     "avatar": "🕸",
     "tags": ["web", "content-crawler"],

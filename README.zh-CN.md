@@ -1,6 +1,22 @@
 <h1>Lobe Chat 插件索引</h1>
 
-[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
+[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
+
+### 网站爬虫
+
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-web-crawler)** on **2024-06-28**</sup>
+
+从网页链接中提取内容
+
+`网页` `内容爬取器`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 搜索引擎
 
@@ -15,21 +31,3 @@
 [![][back-to-top]](#readme-top)
 
 </div>
-
----
-
-### 网站爬虫
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
-
-从网页链接中提取内容
-
-`网页` `内容爬取器`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
- 

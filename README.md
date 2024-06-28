@@ -1,6 +1,22 @@
 <h1>Lobe Chat Plugins Index</h1>
 
-**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS --> 
+**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS -->
+
+### Website Crawler
+
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-web-crawler)** on **2024-06-28**</sup>
+
+Extract content from web links
+
+`web` `content-crawler`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Search Engine
 
@@ -15,21 +31,3 @@ Query search engine to get information
 [![][back-to-top]](#readme-top)
 
 </div>
-
----
-
-### Website Crawler
-
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
-
-Extract content from web links
-
-`web` `content-crawler`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
- 
