@@ -2,7 +2,7 @@
   "author": "Barry",
   "createdAt": "2024-04-30",
   "homepage": "https://github.com/GithuBarry/chat-plugin-search-engine",
-  "identifier": "search-engine-serper",
+  "identifier": "serper",
   "manifest": "https://raw.githubusercontent.com/GithuBarry/chat-plugin-search-engine/main/public/manifest.json",
   "meta": {
     "avatar": "https://serper.dev/favicon.ico",
