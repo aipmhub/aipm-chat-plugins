@@ -4,9 +4,9 @@
 
 ### 通过 Serper 搜索 Google
 
-<sup>By **[@AiPMHub](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-06-30**</sup>
+<sup>By **[@AiPMHub](https://www.theforage.cn/career)** on **2024-06-30**</sup>
 
-通过 Serper.dev 免费 API 进行 Google 搜索引擎（每月 2500 次🆓）
+通过 Serper.dev API 进行 Google 搜索引擎
 
 `网络` `搜索`
 

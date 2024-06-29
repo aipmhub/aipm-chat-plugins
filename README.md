@@ -4,9 +4,9 @@
 
 ### Search Google via Serper
 
-<sup>By **[@AiPMHub](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-06-30**</sup>
+<sup>By **[@AiPMHub](https://www.theforage.cn/career)** on **2024-06-30**</sup>
 
-Google search engine via Serper.dev free API (2500x🆓/month)
+Google search engine via Serper.dev
 
 `web` `search`
 
