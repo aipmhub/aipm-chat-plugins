@@ -1,6 +1,22 @@
 <h1>Lobe Chat 插件索引</h1>
 
-[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
+[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
+
+### 时钟时间
+
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-clock-time)** on **2024-06-29**</sup>
+
+显示一个时钟来展示当前时间
+
+`时钟` `时间`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 网站爬虫
 
@@ -31,3 +47,5 @@
 [![][back-to-top]](#readme-top)
 
 </div>
+
+ 

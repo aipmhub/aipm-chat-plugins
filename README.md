@@ -1,6 +1,22 @@
 <h1>Lobe Chat Plugins Index</h1>
 
-**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS -->
+**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS --> 
+
+### Watch Time
+
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-clock-time)** on **2024-06-29**</sup>
+
+Display a clock to show current time
+
+`watch` `time`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Website Crawler
 
@@ -31,3 +47,5 @@ Query search engine to get information
 [![][back-to-top]](#readme-top)
 
 </div>
+
+ 
