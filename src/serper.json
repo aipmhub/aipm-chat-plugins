@@ -1,9 +1,9 @@
 {
-  "author": "Barry",
-  "createdAt": "2024-04-30",
+  "author": "AiPMHub",
+  "createdAt": "2024-06-30",
   "homepage": "https://github.com/GithuBarry/chat-plugin-search-engine",
   "identifier": "serper",
-  "manifest": "https://raw.githubusercontent.com/GithuBarry/chat-plugin-search-engine/main/public/manifest.json",
+  "manifest": "https://raw.githubusercontent.com/aithoughts/chat-plugin-serper/main/public/manifest.json",
   "meta": {
     "avatar": "https://serper.dev/favicon.ico",
     "description": "Google search engine via Serper.dev free API (2500x🆓/month)",

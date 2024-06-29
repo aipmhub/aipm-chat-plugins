@@ -2,6 +2,22 @@
 
 **English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS --> 
 
+### Search Google via Serper
+
+<sup>By **[@AiPMHub](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-06-30**</sup>
+
+Google search engine via Serper.dev free API (2500x🆓/month)
+
+`web` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Watch Time
 
 <sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-clock-time)** on **2024-06-29**</sup>
@@ -39,22 +55,6 @@ Extract content from web links
 <sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-search-engine)** on **2024-06-17**</sup>
 
 Query search engine to get information
-
-`web` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Search Google via Serper
-
-<sup>By **[@Barry](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-04-30**</sup>
-
-Google search engine via Serper.dev free API (2500x🆓/month)
 
 `web` `search`
 

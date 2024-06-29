@@ -2,6 +2,22 @@
 
 [English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
 
+### 通过 Serper 搜索 Google
+
+<sup>By **[@AiPMHub](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-06-30**</sup>
+
+通过 Serper.dev 免费 API 进行 Google 搜索引擎（每月 2500 次🆓）
+
+`网络` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 时钟时间
 
 <sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-clock-time)** on **2024-06-29**</sup>
@@ -39,22 +55,6 @@
 <sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-search-engine)** on **2024-06-17**</sup>
 
 查询搜索引擎以获取信息
-
-`网络` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 通过 Serper 搜索 Google
-
-<sup>By **[@Barry](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-04-30**</sup>
-
-通过 Serper.dev 免费 API 进行 Google 搜索引擎（每月 2500 次🆓）
 
 `网络` `搜索`
 
