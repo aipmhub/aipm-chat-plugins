@@ -48,4 +48,20 @@
 
 </div>
 
+---
+
+### 通过 Serper 搜索 Google
+
+<sup>By **[@Barry](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-04-30**</sup>
+
+通过 Serper.dev 免费 API 进行 Google 搜索引擎（每月 2500 次🆓）
+
+`网络` `搜索`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
  

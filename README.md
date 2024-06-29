@@ -48,4 +48,20 @@ Query search engine to get information
 
 </div>
 
+---
+
+### Search Google via Serper
+
+<sup>By **[@Barry](https://github.com/GithuBarry/chat-plugin-search-engine)** on **2024-04-30**</sup>
+
+Google search engine via Serper.dev free API (2500x🆓/month)
+
+`web` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
  
