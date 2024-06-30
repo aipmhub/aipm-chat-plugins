@@ -2,9 +2,25 @@
 
 [English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
 
-### 通过 Serper 搜索 Google
+### Search Research Papers
 
-<sup>By **[@5Loi](https://www.5loi.com)** on **2024-06-30**</sup>
+<sup>By **[@Forage🌿AI](https://www.theforage.cn)** on **2024-06-30**</sup>
+
+探索研究的宇宙。搜索和比较论文，并回答问题。
+
+`research-paper` `search`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 搜索 Google
+
+<sup>By **[@5LOI](https://www.5loi.com)** on **2024-06-30**</sup>
 
 通过 Serper.dev API 进行 Google 搜索引擎
 
