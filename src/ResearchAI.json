@@ -6,7 +6,10 @@
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/ResearchAI/logo.webp",
     "description": "Search for research papers within a specific field to find answers.",
-    "tags": ["research-paper", "search"],
+    "tags": [
+      "research paper",
+      "search"
+    ],
     "title": "Search Research Papers"
   },
   "schemaVersion": 1,
