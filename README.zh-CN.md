@@ -2,6 +2,22 @@
 
 [English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
 
+### 绘画
+
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-drawing)** on **2024-06-30**</sup>
+
+通过 pollinations.ai 进行图像生成
+
+`drawing` `image`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 搜索 Google
 
 <sup>By **[@5LOI](https://www.5loi.com)** on **2024-06-30**</sup>

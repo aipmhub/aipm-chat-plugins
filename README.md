@@ -2,6 +2,22 @@
 
 **English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS --> 
 
+### Drawing Image
+
+<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-drawing)** on **2024-06-30**</sup>
+
+Drawing your image from your words
+
+`drawing` `image`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Search Google via Serper
 
 <sup>By **[@5LOI](https://www.5loi.com)** on **2024-06-30**</sup>
