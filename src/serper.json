@@ -1,17 +1,17 @@
 {
-  "author": "AiPMHub",
-  "createdAt": "2024-06-30",
-  "homepage": "https://www.theforage.cn/career",
+  "author": "5Loi",
+  "homepage": "https://www.5loi.com",
   "identifier": "serper",
-  "manifest": "https://raw.githubusercontent.com/aithoughts/chat-plugin-serper/main/public/manifest.json",
+  "manifest": "https://chat-plugin-apistore.theforage.cn/serper/manifest.json",
   "meta": {
-    "avatar": "https://serper.dev/favicon.ico",
-    "description": "Google search engine via Serper.dev",
+    "avatar": "https://chat-plugin-apistore.theforage.cn/serper/logo.webp",
+    "description": "Google search engine via Serper.dev free API (2500x🆓/month)",
     "tags": [
       "web",
       "search"
     ],
     "title": "Search Google via Serper"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "createdAt": "2024-06-30"
 }

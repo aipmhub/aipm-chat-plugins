@@ -25,6 +25,6 @@ export const meta = readJSON(metaPath);
 
 export const readmeSplit = "<!-- AWESOME PLUGINS -->";
 
-export const SYNC_URL = "https://chat-plugin-openai-collections.theforage.cn";
+export const SYNC_URL = "https://chat-plugin-apistore.theforage.cn";
 
 export const config = require("../.i18nrc.js");

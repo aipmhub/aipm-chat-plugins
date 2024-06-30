@@ -4,27 +4,11 @@
 
 ### Search Google via Serper
 
-<sup>By **[@AiPMHub](https://www.theforage.cn/career)** on **2024-06-30**</sup>
+<sup>By **[@5Loi](https://www.5loi.com)** on **2024-06-30**</sup>
 
-Google search engine via Serper.dev
+Google search engine via Serper.dev free API (2500x🆓/month)
 
 `web` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Watch Time
-
-<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-clock-time)** on **2024-06-29**</sup>
-
-Display a clock to show current time
-
-`watch` `time`
 
 <div align="right">
 
