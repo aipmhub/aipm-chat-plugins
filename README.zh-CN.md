@@ -1,6 +1,6 @@
 <h1>AiPM Chat 插件索引</h1>
 
-[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
+[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
 
 ### SEO分析
 
@@ -50,6 +50,22 @@
 
 ---
 
+### 网站爬虫
+
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
+
+从网页链接中提取内容
+
+`网页` `内容爬取器`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 绘图
 
 <sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-drawing)** on **2024-06-30**</sup>
@@ -79,3 +95,5 @@
 [![][back-to-top]](#readme-top)
 
 </div>
+
+ 
