@@ -6,10 +6,7 @@
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/website_seo_analysis/logo.webp",
     "description": "Enter any URL and keyword and get an On-Page SEO analysis & insights!",
-    "tags": [
-      "seo",
-      "analysis"
-    ],
+    "tags": ["seo", "analysis"],
     "title": "SEO Analysis"
   },
   "schemaVersion": 1,
