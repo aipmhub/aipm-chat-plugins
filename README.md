@@ -66,22 +66,6 @@ Drawing your image from your words
 
 ---
 
-### Website Crawler
-
-<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-web-crawler)** on **2024-06-28**</sup>
-
-Extract content from web links
-
-`web` `content-crawler`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Search Engine
 
 <sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-search-engine)** on **2024-06-17**</sup>

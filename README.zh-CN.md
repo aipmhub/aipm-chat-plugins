@@ -2,7 +2,7 @@
 
 [English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
 
-### SEO
+### SEO分析
 
 <sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
 
@@ -57,22 +57,6 @@
 通过 pollinations.ai 进行图像生成
 
 `drawing` `image`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 网站爬虫
-
-<sup>By **[@AiPMHub](https://github.com/aipmhub/chat-plugin-web-crawler)** on **2024-06-28**</sup>
-
-从网页链接中提取内容
-
-`网页` `内容爬取器`
 
 <div align="right">
 
