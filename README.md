@@ -1,6 +1,6 @@
 <h1>AiPM Chat Plugins Index</h1>
 
-**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS --> 
+**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS -->
 
 ### SEO Analysis
 
@@ -50,11 +50,11 @@ Google search engine via Serper.dev
 
 ---
 
-### Scrape Webpage Content
+### Webpage Content Analysis
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
-Scrape content from webpages by providing a URL.
+Enter any URL and get content insights!
 
 `web` `analysis`
 
@@ -95,5 +95,3 @@ Query search engine to get information
 [![][back-to-top]](#readme-top)
 
 </div>
-
- 

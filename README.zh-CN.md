@@ -1,6 +1,6 @@
 <h1>AiPM Chat 插件索引</h1>
 
-[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
+[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
 
 ### SEO分析
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 网站爬虫
+### 网站内容分析
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
@@ -95,5 +95,3 @@
 [![][back-to-top]](#readme-top)
 
 </div>
-
- 

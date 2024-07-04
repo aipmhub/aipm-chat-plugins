@@ -5,12 +5,9 @@
   "manifest": "https://chat-plugin-apistore.theforage.cn/website_content_scrape/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/website_content_scrape/logo.webp",
-    "description": "Scrape content from webpages by providing a URL.",
-    "tags": [
-      "web",
-      "analysis"
-    ],
-    "title": "Scrape Webpage Content"
+    "description": "Enter any URL and get content insights!",
+    "tags": ["web", "analysis"],
+    "title": "Webpage Content Analysis"
   },
   "schemaVersion": 1,
   "createdAt": "2024-07-04"
