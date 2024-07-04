@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "搜索 Google",
+    "title": "Google搜索",
     "description": "通过 Serper.dev API 进行 Google 搜索引擎",
     "tags": ["网络", "搜索"]
   }

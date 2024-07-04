@@ -1,0 +1,17 @@
+{
+  "author": "5LOI🐬",
+  "homepage": "https://www.5loi.com",
+  "identifier": "website_seo_analysis",
+  "manifest": "https://chat-plugin-apistore.theforage.cn/website_seo_analysis/manifest.json",
+  "meta": {
+    "avatar": "https://chat-plugin-apistore.theforage.cn/website_seo_analysis/logo.webp",
+    "description": "Enter any URL and keyword and get an On-Page SEO analysis & insights!",
+    "tags": [
+      "seo",
+      "analysis"
+    ],
+    "title": "SEO Analysis"
+  },
+  "schemaVersion": 1,
+  "createdAt": "2024-07-04"
+}
