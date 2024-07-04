@@ -1,13 +1,13 @@
 {
-  "author": "theforage",
-  "homepage": "https://www.theforage.cn",
+  "author": "5LOI🐬",
+  "homepage": "https://www.5loi.com",
   "identifier": "website_content_scrape",
   "manifest": "https://chat-plugin-apistore.theforage.cn/website_content_scrape/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/website_content_scrape/logo.webp",
-    "description": "Enter any URL and get content insights!",
     "tags": ["web", "analysis"],
-    "title": "Webpage Content Analysis"
+    "title": "Webpage Content Analysis",
+    "description": "Enter any URL and get content insights!"
   },
   "schemaVersion": 1,
   "createdAt": "2024-07-04"

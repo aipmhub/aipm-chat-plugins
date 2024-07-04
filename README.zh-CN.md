@@ -34,6 +34,22 @@
 
 ---
 
+### Recommend AI Tools
+
+<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+
+Discover the perfect AI tools for your needs.
+
+`ai` `recommend`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Google搜索
 
 <sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
@@ -50,9 +66,25 @@
 
 ---
 
+### Recommend PM Tools
+
+<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+
+Discover the perfect tools for your work of product management
+
+`tool` `recommend`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 网站内容分析
 
-<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
+<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
 
 从网页链接中提取内容
 

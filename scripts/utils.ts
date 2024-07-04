@@ -6,6 +6,7 @@ import { readmeSplit } from "./const";
 
 export const readJSON = (filePath) => {
   const data = readFileSync(filePath, "utf8");
+  console.log("---------- data", data); // 访问解析后的数据
   return JSON.parse(data);
 };
 

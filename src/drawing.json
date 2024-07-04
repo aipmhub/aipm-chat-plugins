@@ -1,6 +1,5 @@
 {
   "author": "AiPMHub",
-  "createdAt": "2024-06-30",
   "homepage": "https://github.com/aipmhub/chat-plugin-drawing",
   "identifier": "drawing",
   "manifest": "https://chat-plugin-image-drawing.theforage.cn/manifest.json",
@@ -10,5 +9,6 @@
     "title": "Drawing Image",
     "description": "Drawing your image from your words"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "createdAt": "2024-06-30"
 }

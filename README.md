@@ -34,6 +34,22 @@ Search for research papers within a specific field to find answers.
 
 ---
 
+### Recommend AI Tools
+
+<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+
+Discover the perfect AI tools for your needs.
+
+`ai` `recommend`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Search Google via Serper
 
 <sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
@@ -50,9 +66,25 @@ Google search engine via Serper.dev
 
 ---
 
+### Recommend PM Tools
+
+<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+
+Discover the perfect tools for your work of product management
+
+`tool` `recommend`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Webpage Content Analysis
 
-<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
+<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
 
 Enter any URL and get content insights!
 

@@ -1,6 +1,5 @@
 {
   "author": "AiPMHub",
-  "createdAt": "2024-06-17",
   "homepage": "https://github.com/aipmhub/chat-plugin-search-engine",
   "identifier": "search_engine",
   "manifest": "https://chat-plugin-search-engine.theforage.cn/manifest.json",
@@ -10,5 +9,6 @@
     "title": "Search Engine",
     "description": "Query search engine to get information"
   },
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "createdAt": "2024-06-17"
 }

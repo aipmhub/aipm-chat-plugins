@@ -5,9 +5,9 @@
   "manifest": "https://chat-plugin-apistore.theforage.cn/research_paper_search/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/research_paper_search/logo.webp",
-    "description": "Search for research papers within a specific field to find answers.",
     "tags": ["research", "search"],
-    "title": "Search Research Papers"
+    "title": "Search Research Papers",
+    "description": "Search for research papers within a specific field to find answers."
   },
   "schemaVersion": 1,
   "createdAt": "2024-07-04"
