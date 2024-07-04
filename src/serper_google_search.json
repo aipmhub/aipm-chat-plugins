@@ -6,10 +6,7 @@
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/serper_google_search/logo.webp",
     "description": "Google search engine via Serper.dev",
-    "tags": [
-      "web",
-      "search"
-    ],
+    "tags": ["web", "search"],
     "title": "Search Google via Serper"
   },
   "schemaVersion": 1,
