@@ -2,13 +2,13 @@
 
 [English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
 
-### 秘密装备
+### 秘密小工具
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-搜索每个经销商，分析和排名每辆车，让您可以放心购买。
+发现、阅读、引用和搜索所有 arXiv 论文。
 
-`秘密` `装备`
+`秘密` `小工具`
 
 <div align="right">
 

@@ -6,7 +6,7 @@
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-Searches every dealer, analyzes & ranks every car for you so you can buy with confidence.
+Discover, read, reference, and search through all arXiv papers.
 
 `secret` `gadgets`
 
