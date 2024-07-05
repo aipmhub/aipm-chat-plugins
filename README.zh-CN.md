@@ -2,13 +2,13 @@
 
 [English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
 
-### 秘密小工具
+### 秘密装置
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-发现、阅读、引用和搜索所有 arXiv 论文。
+获取今日人工智能新闻头条
 
-`秘密` `小工具`
+`秘密` `装置`
 
 <div align="right">
 

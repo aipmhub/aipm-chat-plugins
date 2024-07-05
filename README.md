@@ -6,7 +6,7 @@
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-Discover, read, reference, and search through all arXiv papers.
+Get Today's AI News Headlines
 
 `secret` `gadgets`
 
