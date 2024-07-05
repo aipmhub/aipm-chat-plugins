@@ -2,13 +2,13 @@
 
 [English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
 
-### 秘密装置
+### 秘密装备
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-通过AI展示，发现适合您个人和业务需求的完美AI工具。
+搜索每个经销商，分析和排名每辆车，让您可以放心购买。
 
-`秘密` `装置`
+`秘密` `装备`
 
 <div align="right">
 
