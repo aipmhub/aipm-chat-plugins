@@ -20,8 +20,8 @@ export const formatAndCheckSchema = (plugin) => {
 };
 
 export const checkUniqueIdentifier = (arr) => {
-  let duplicates = [];
-  let set = new Set();
+  const duplicates = [];
+  const set = new Set();
 
   for (let i = 0; i < arr.length; i++) {
     if (set.has(arr[i])) {

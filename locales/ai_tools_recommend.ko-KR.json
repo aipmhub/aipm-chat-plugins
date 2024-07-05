@@ -1,7 +1,10 @@
 {
   "meta": {
-    "title": "AI工具推荐",
-    "description": "推荐有用的AI工具",
-    "tags": ["AI", "工具"]
+    "title": "AI 도구",
+    "description": "귀하의 필요에 맞는 AI 도구를 탐색하세요",
+    "tags": [
+      "AI",
+      "추천"
+    ]
   }
 }

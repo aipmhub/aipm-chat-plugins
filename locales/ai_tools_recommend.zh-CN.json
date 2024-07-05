@@ -1,7 +1,10 @@
 {
   "meta": {
-    "title": "Recommend AI Tools",
-    "description": "Discover the perfect AI tools for your needs.",
-    "tags": ["ai", "recommend"]
+    "title": "AI工具",
+    "description": "探索满足您需求的AI工具",
+    "tags": [
+      "人工智能",
+      "推荐"
+    ]
   }
 }

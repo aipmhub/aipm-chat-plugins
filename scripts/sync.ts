@@ -58,7 +58,9 @@ const syncCollections = async () => {
     try {
       rmSync(resolve(pluginsDir, `${identifier}.json`));
       consola.warn(`Remove expire plugin ${identifier}`);
-    } catch {}
+    } catch {
+      /* no-empty */
+    }
   });
 };
 

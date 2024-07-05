@@ -5,9 +5,12 @@
   "manifest": "https://chat-plugin-apistore.theforage.cn/ai_tools_recommend/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/ai_tools_recommend/logo.webp",
-    "tags": ["ai", "recommend"],
-    "title": "Recommend AI Tools",
-    "description": "Discover the perfect AI tools for your needs."
+    "tags": [
+      "ai",
+      "recommendation"
+    ],
+    "title": "AI Tools",
+    "description": "Explore AI tools that meet your needs"
   },
   "schemaVersion": 1,
   "createdAt": "2024-07-04"

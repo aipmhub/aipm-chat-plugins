@@ -1,7 +1,10 @@
 {
   "meta": {
-    "title": "AI工具推荐",
-    "description": "推荐有用的AI工具",
-    "tags": ["AI", "工具"]
+    "title": "Strumenti AI",
+    "description": "Esplora gli strumenti AI che soddisfano le tue esigenze",
+    "tags": [
+      "ai",
+      "raccomandazione"
+    ]
   }
 }

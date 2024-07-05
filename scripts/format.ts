@@ -23,8 +23,10 @@ const formatJSON = async (fileName, checkType) => {
   const filePath = resolve(pluginsDir, fileName);
 
   let plugin = readJSON(filePath);
-
+  console.log("filePath:", filePath);
   if (checkType) {
+    console.log("checkType:", checkType);
+
     plugin = formatAndCheckSchema(plugin);
 
     if (plugin?.meta?.tags?.length > 0) {
@@ -37,10 +39,13 @@ const formatJSON = async (fileName, checkType) => {
     for (const key of config.selectors) {
       const rawValue = get(plugin, key);
       if (rawValue) set(rawData, key, rawValue);
+      console.log("rawValue:", rawValue);
     }
 
     if (rawData) {
+      console.log("rawData:", rawData);
       if (plugin.locale && plugin.locale !== config.entryLocale) {
+        console.log("rawDatarawDatarawData:", rawData);
         if (config.outputLocales.includes(plugin.locale)) {
           writeJSON(
             resolve(

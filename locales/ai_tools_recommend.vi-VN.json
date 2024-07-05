@@ -1,7 +1,10 @@
 {
   "meta": {
-    "title": "AI工具推荐",
-    "description": "推荐有用的AI工具",
-    "tags": ["AI", "工具"]
+    "title": "Công cụ AI",
+    "description": "Khám phá các công cụ AI phù hợp với nhu cầu của bạn",
+    "tags": [
+      "ai",
+      "đề xuất"
+    ]
   }
 }

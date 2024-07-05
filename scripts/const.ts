@@ -27,4 +27,4 @@ export const readmeSplit = "<!-- AWESOME PLUGINS -->";
 
 export const SYNC_URL = "https://chat-plugin-apistore.theforage.cn";
 
-export const config = require("../.i18nrc.js");
+export { default as config } from "../.i18nrc.js";
