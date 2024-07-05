@@ -16,7 +16,7 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 </div>
 
-***
+---
 
 ### Search Research Papers
 
@@ -32,7 +32,7 @@ Search for research papers within a specific field to find answers.
 
 </div>
 
-***
+---
 
 ### AI Tools
 
@@ -48,7 +48,7 @@ Explore AI tools that meet your needs
 
 </div>
 
-***
+---
 
 ### Search Google via Serper
 
@@ -64,7 +64,7 @@ Google search engine via Serper.dev
 
 </div>
 
-***
+---
 
 ### PM Tools
 
@@ -80,7 +80,7 @@ Explore the right tools to elevate your product management.
 
 </div>
 
-***
+---
 
 ### Webpage Content Analysis
 
@@ -96,7 +96,7 @@ Enter any URL and get content insights!
 
 </div>
 
-***
+---
 
 ### Drawing Image
 
@@ -112,7 +112,7 @@ Drawing your image from your words
 
 </div>
 
-***
+---
 
 ### Search Engine
 
