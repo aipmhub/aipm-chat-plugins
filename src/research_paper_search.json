@@ -1,13 +1,13 @@
 {
-  "author": "5LOI🐬",
-  "homepage": "https://www.5loi.com",
+  "author": "theforage",
+  "homepage": "https://www.theforage.cn",
   "identifier": "research_paper_search",
   "manifest": "https://chat-plugin-apistore.theforage.cn/research_paper_search/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/research_paper_search/logo.webp",
+    "description": "Search for research papers within a specific field to find answers.",
     "tags": ["research", "search"],
-    "title": "Search Research Papers",
-    "description": "Search for research papers within a specific field to find answers."
+    "title": "Search Research Papers"
   },
   "schemaVersion": 1,
   "createdAt": "2024-07-04"

@@ -1,13 +1,13 @@
 {
-  "author": "5LOI🐬",
-  "homepage": "https://www.5loi.com",
+  "author": "theforage",
+  "homepage": "https://www.theforage.cn",
   "identifier": "serper_google_search",
   "manifest": "https://chat-plugin-apistore.theforage.cn/serper_google_search/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/serper_google_search/logo.webp",
+    "description": "Google search engine via Serper.dev",
     "tags": ["web", "search"],
-    "title": "Search Google via Serper",
-    "description": "Google search engine via Serper.dev"
+    "title": "Search Google via Serper"
   },
   "schemaVersion": 1,
   "createdAt": "2024-07-04"

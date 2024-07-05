@@ -1,13 +1,13 @@
 {
-  "author": "5LOI🐬",
-  "homepage": "https://www.5loi.com",
+  "author": "theforage",
+  "homepage": "https://www.theforage.cn",
   "identifier": "pm_tools_recommend",
   "manifest": "https://chat-plugin-apistore.theforage.cn/pm_tools_recommend/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/pm_tools_recommend/logo.webp",
+    "description": "Discover the perfect tools for your work of product management",
     "tags": ["tool", "recommendation"],
-    "title": "PM Tools",
-    "description": "Explore the right tools to elevate your product management."
+    "title": "Recommend PM Tools"
   },
   "schemaVersion": 1,
   "createdAt": "2024-07-04"

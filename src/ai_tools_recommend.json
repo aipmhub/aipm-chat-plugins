@@ -1,13 +1,13 @@
 {
-  "author": "5LOI🐬",
-  "homepage": "https://www.5loi.com",
+  "author": "theforage",
+  "homepage": "https://www.theforage.cn",
   "identifier": "ai_tools_recommend",
   "manifest": "https://chat-plugin-apistore.theforage.cn/ai_tools_recommend/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/ai_tools_recommend/logo.webp",
+    "description": "Discover the perfect AI tools for your needs.",
     "tags": ["ai", "recommendation"],
-    "title": "AI Tools",
-    "description": "Explore AI tools that meet your needs"
+    "title": "Recommend AI Tools"
   },
   "schemaVersion": 1,
   "createdAt": "2024-07-04"

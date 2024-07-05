@@ -6,7 +6,7 @@
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-Generate charts. The user can request a chart to be generated.
+CarYardBard
 
 `secret` `gadgets`
 
@@ -20,7 +20,7 @@ Generate charts. The user can request a chart to be generated.
 
 ### SEO Analysis
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
@@ -36,7 +36,7 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 ### Search Research Papers
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 Search for research papers within a specific field to find answers.
 
@@ -50,11 +50,11 @@ Search for research papers within a specific field to find answers.
 
 ---
 
-### AI Tools
+### Recommend AI Tools
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
-Explore AI tools that meet your needs
+Discover the perfect AI tools for your needs.
 
 `ai` `recommendation`
 
@@ -68,7 +68,7 @@ Explore AI tools that meet your needs
 
 ### Search Google via Serper
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 Google search engine via Serper.dev
 
@@ -82,11 +82,11 @@ Google search engine via Serper.dev
 
 ---
 
-### PM Tools
+### Recommend PM Tools
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
-Explore the right tools to elevate your product management.
+Discover the perfect tools for your work of product management
 
 `tool` `recommendation`
 
@@ -100,7 +100,7 @@ Explore the right tools to elevate your product management.
 
 ### Webpage Content Analysis
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 Enter any URL and get content insights!
 

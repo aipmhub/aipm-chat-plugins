@@ -20,7 +20,7 @@
 
 ### SEO分析
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 输入任何URL和关键词，获取页面SEO分析和见解！
 
@@ -36,7 +36,7 @@
 
 ### 学术搜索🔍
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 探索研究的宇宙。搜索和比较论文，并回答问题。
 
@@ -52,7 +52,7 @@
 
 ### AI工具
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 探索满足您需求的AI工具
 
@@ -68,7 +68,7 @@
 
 ### Google搜索
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 通过 Serper.dev API 进行 Google 搜索引擎
 
@@ -84,7 +84,7 @@
 
 ### 产品管理工具
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 探索提升产品管理的正确工具。
 
@@ -100,7 +100,7 @@
 
 ### 网站内容分析
 
-<sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-04**</sup>
 
 从网页链接中提取内容
 
