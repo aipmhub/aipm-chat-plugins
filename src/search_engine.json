@@ -5,10 +5,7 @@
   "manifest": "https://chat-plugin-search-engine.theforage.cn/manifest.json",
   "meta": {
     "avatar": "🔎",
-    "tags": [
-      "web",
-      "search"
-    ],
+    "tags": ["web", "search"],
     "title": "Search Engine",
     "description": "Query search engine to get information"
   },

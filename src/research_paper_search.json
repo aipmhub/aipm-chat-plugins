@@ -5,10 +5,7 @@
   "manifest": "https://chat-plugin-apistore.theforage.cn/research_paper_search/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/research_paper_search/logo.webp",
-    "tags": [
-      "research",
-      "search"
-    ],
+    "tags": ["research", "search"],
     "title": "Search Research Papers",
     "description": "Search for research papers within a specific field to find answers."
   },

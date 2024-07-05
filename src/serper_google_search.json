@@ -5,10 +5,7 @@
   "manifest": "https://chat-plugin-apistore.theforage.cn/serper_google_search/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/serper_google_search/logo.webp",
-    "tags": [
-      "web",
-      "search"
-    ],
+    "tags": ["web", "search"],
     "title": "Search Google via Serper",
     "description": "Google search engine via Serper.dev"
   },

@@ -2,9 +2,6 @@
   "meta": {
     "title": "AIツール",
     "description": "ニーズに合ったAIツールを探索する",
-    "tags": [
-      "ai",
-      "推薦"
-    ]
+    "tags": ["ai", "推薦"]
   }
 }

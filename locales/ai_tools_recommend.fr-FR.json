@@ -2,9 +2,6 @@
   "meta": {
     "title": "Outils d'IA",
     "description": "Explorez les outils d'IA qui répondent à vos besoins",
-    "tags": [
-      "ia",
-      "recommandation"
-    ]
+    "tags": ["ia", "recommandation"]
   }
 }

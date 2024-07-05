@@ -2,9 +2,6 @@
   "meta": {
     "title": "Yapay Zeka Araçları",
     "description": "İhtiyaçlarınıza uygun yapay zeka araçlarını keşfedin",
-    "tags": [
-      "ai",
-      "öneri"
-    ]
+    "tags": ["ai", "öneri"]
   }
 }

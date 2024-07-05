@@ -5,10 +5,7 @@
   "manifest": "https://chat-plugin-image-drawing.theforage.cn/manifest.json",
   "meta": {
     "avatar": "🎨",
-    "tags": [
-      "drawing",
-      "image"
-    ],
+    "tags": ["drawing", "image"],
     "title": "Drawing Image",
     "description": "Drawing your image from your words"
   },

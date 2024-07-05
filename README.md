@@ -12,11 +12,11 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### Search Research Papers
 
@@ -28,27 +28,27 @@ Search for research papers within a specific field to find answers.
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
-### Recommend AI Tools
+### AI Tools
 
 <sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
 
-Discover the perfect AI tools for your needs.
+Explore AI tools that meet your needs
 
-`ai` `recommend`
+`ai` `recommendation`
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### Search Google via Serper
 
@@ -60,27 +60,27 @@ Google search engine via Serper.dev
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
-### Recommend PM Tools
+### PM Tools
 
 <sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
 
-Discover the perfect tools for your work of product management
+Explore the right tools to elevate your product management.
 
-`tool` `recommend`
+`tool` `recommendation`
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### Webpage Content Analysis
 
@@ -92,11 +92,11 @@ Enter any URL and get content insights!
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### Drawing Image
 
@@ -108,11 +108,11 @@ Drawing your image from your words
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### Search Engine
 
@@ -124,6 +124,6 @@ Query search engine to get information
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>

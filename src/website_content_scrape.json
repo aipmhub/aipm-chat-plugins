@@ -5,10 +5,7 @@
   "manifest": "https://chat-plugin-apistore.theforage.cn/website_content_scrape/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/website_content_scrape/logo.webp",
-    "tags": [
-      "web",
-      "analysis"
-    ],
+    "tags": ["web", "analysis"],
     "title": "Webpage Content Analysis",
     "description": "Enter any URL and get content insights!"
   },

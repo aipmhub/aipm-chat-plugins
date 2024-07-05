@@ -5,10 +5,7 @@
   "manifest": "https://chat-plugin-apistore.theforage.cn/pm_tools_recommend/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/pm_tools_recommend/logo.webp",
-    "tags": [
-      "tool",
-      "recommendation"
-    ],
+    "tags": ["tool", "recommendation"],
     "title": "PM Tools",
     "description": "Explore the right tools to elevate your product management."
   },

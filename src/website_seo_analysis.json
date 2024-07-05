@@ -5,10 +5,7 @@
   "manifest": "https://chat-plugin-apistore.theforage.cn/website_seo_analysis/manifest.json",
   "meta": {
     "avatar": "https://chat-plugin-apistore.theforage.cn/website_seo_analysis/logo.webp",
-    "tags": [
-      "seo",
-      "analysis"
-    ],
+    "tags": ["seo", "analysis"],
     "title": "SEO Analysis",
     "description": "Enter any URL and keyword and get an On-Page SEO analysis & insights!"
   },

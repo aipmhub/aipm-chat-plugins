@@ -12,11 +12,11 @@
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### 学术搜索🔍
 
@@ -28,27 +28,27 @@
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
-### Recommend AI Tools
+### AI工具
 
 <sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
 
-Discover the perfect AI tools for your needs.
+探索满足您需求的AI工具
 
-`ai` `recommend`
+`人工智能` `推荐`
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### Google搜索
 
@@ -60,27 +60,27 @@ Discover the perfect AI tools for your needs.
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
-### Recommend PM Tools
+### 产品管理工具
 
 <sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
 
-Discover the perfect tools for your work of product management
+探索提升产品管理的正确工具。
 
-`tool` `recommend`
+`工具` `推荐`
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### 网站内容分析
 
@@ -92,11 +92,11 @@ Discover the perfect tools for your work of product management
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### 绘图
 
@@ -108,11 +108,11 @@ Discover the perfect tools for your work of product management
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
-***
+---
 
 ### 搜索引擎
 
@@ -124,6 +124,6 @@ Discover the perfect tools for your work of product management
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
