@@ -2,6 +2,22 @@
 
 **English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS -->
 
+### Secret Gadgets
+
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
+
+Generate charts. The user can request a chart to be generated.
+
+`secret` `gadgets`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### SEO Analysis
 
 <sup>By **[@5LOI🐬](https://www.5loi.com)** on **2024-07-04**</sup>
@@ -12,7 +28,7 @@ Enter any URL and keyword and get an On-Page SEO analysis & insights!
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
@@ -28,7 +44,7 @@ Search for research papers within a specific field to find answers.
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
@@ -44,7 +60,7 @@ Explore AI tools that meet your needs
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
@@ -60,7 +76,7 @@ Google search engine via Serper.dev
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
@@ -76,7 +92,7 @@ Explore the right tools to elevate your product management.
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
@@ -92,7 +108,7 @@ Enter any URL and get content insights!
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
@@ -108,7 +124,7 @@ Drawing your image from your words
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
 
@@ -124,6 +140,6 @@ Query search engine to get information
 
 <div align="right">
 
-[!\[\]\[back-to-top\]](#readme-top)
+[![][back-to-top]](#readme-top)
 
 </div>
