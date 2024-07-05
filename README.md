@@ -1,12 +1,12 @@
 <h1>AiPM Chat Plugins Index</h1>
 
-**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS --> 
+**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS -->
 
-### A Secret Gadget
+### Secret Gadget
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-Search and discover NASA images.
+Discover the perfect AI tool for your personal and business needs with AI Showcase.
 
 `secret` `gadgets`
 
@@ -143,5 +143,3 @@ Query search engine to get information
 [![][back-to-top]](#readme-top)
 
 </div>
-
- 

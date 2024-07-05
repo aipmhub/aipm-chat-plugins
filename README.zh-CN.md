@@ -1,14 +1,14 @@
 <h1>AiPM Chat 插件索引</h1>
 
-[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
+[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
 
-### 一个秘密小工具
+### 秘密装置
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-搜索和发现NASA图片。
+通过AI展示，发现适合您个人和业务需求的完美AI工具。
 
-`秘密` `小工具`
+`秘密` `装置`
 
 <div align="right">
 
@@ -143,5 +143,3 @@
 [![][back-to-top]](#readme-top)
 
 </div>
-
- 
