@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "GitHub Gadget",
+    "description": "Detaillierte Statistiken und Informationen über Open-Source-Repositories und Entwickler abrufen. Repository-Daten, Benutzerbeiträge, Community-Wachstum und historische Trends analysieren.",
+    "tags": ["oss", "gadgets"]
+  }
+}

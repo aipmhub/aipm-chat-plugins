@@ -2,11 +2,27 @@
 
 **English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS -->
 
+### GitHub Gadget
+
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-06**</sup>
+
+Retrieve detailed statistics and information about open-source repositories and developers. Analyze repository data, user contributions, community growth, and historical trends
+
+`oss` `gadgets`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Secret Gadget
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-Get Today's AI News Headlines
+Some secret gadgets we offer you
 
 `secret` `gadgets`
 

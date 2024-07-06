@@ -2,13 +2,29 @@
 
 [English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
 
-### 秘密装置
+### GitHub小工具
+
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-06**</sup>
+
+获取有关开源仓库和开发者的详细统计信息和信息。分析仓库数据、用户贡献、社区增长和历史趋势。
+
+`oss` `小工具`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 秘密装备
 
 <sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-05**</sup>
 
-获取今日人工智能新闻头条
+我们为您提供的一些秘密装备
 
-`秘密` `装置`
+`秘密` `装备`
 
 <div align="right">
 
