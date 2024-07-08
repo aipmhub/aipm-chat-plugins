@@ -1,6 +1,22 @@
 <h1>AiPM Chat Plugins Index</h1>
 
-**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS -->
+**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS --> 
+
+### Car Brands Gadget
+
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-08**</sup>
+
+Dive deeper into automotive knowledge with this plugin. Analyze projects, compare options, track progress, and understand activity trends. Your automotive expert assistant.
+
+`car` `gadgets`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### GitHub Gadget
 
@@ -159,3 +175,5 @@ Query search engine to get information
 [![][back-to-top]](#readme-top)
 
 </div>
+
+ 

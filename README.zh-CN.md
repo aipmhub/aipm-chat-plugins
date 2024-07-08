@@ -1,6 +1,22 @@
 <h1>AiPM Chat 插件索引</h1>
 
-[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
+[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
+
+### 汽车品牌小工具
+
+<sup>By **[@theforage](https://www.theforage.cn)** on **2024-07-08**</sup>
+
+通过这个插件深入了解汽车知识。分析项目，比较选项，跟踪进展，了解活动趋势。您的汽车专家助手。
+
+`汽车` `小工具`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### GitHub小工具
 
@@ -159,3 +175,5 @@
 [![][back-to-top]](#readme-top)
 
 </div>
+
+ 
