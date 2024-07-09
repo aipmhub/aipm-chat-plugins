@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "数学画像",
-    "description": "LaTeX TikZコードを使用して、鮮明でスケーラブルな数学図や視覚化をSVG画像に変換します",
-    "tags": ["latex", "svg", "visualization", "diagram", "math"]
+    "description": "TeX TikZコードを使用して、鮮明でスケーラブルな数学図や視覚化をSVG画像に変換します",
+    "tags": ["TeX", "svg", "visualization", "diagram", "math"]
   }
 }

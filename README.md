@@ -6,9 +6,9 @@
 
 <sup>By **[@AiPMHub](https://github.com/aithoughts/chat-plugin-image-gadgets)** on **2024-07-09**</sup>
 
-Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations
+Convert TeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations
 
-`latex` `svg` `visualization` `diagram` `math`
+`TeX` `svg` `visualization` `diagram` `math`
 
 <div align="right">
 

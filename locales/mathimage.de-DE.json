@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Math Image",
-    "description": "Konvertieren Sie LaTeX TikZ-Code in SVG-Bilder für klare, skalierbare mathematische Diagramme und Visualisierungen",
-    "tags": ["latex", "svg", "visualisierung", "diagramm", "mathematik"]
+    "description": "Konvertieren Sie TeX TikZ-Code in SVG-Bilder für klare, skalierbare mathematische Diagramme und Visualisierungen",
+    "tags": ["TeX", "svg", "visualisierung", "diagramm", "mathematik"]
   }
 }

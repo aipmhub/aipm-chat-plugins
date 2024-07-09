@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Hình ảnh Toán học",
-    "description": "Chuyển đổi mã LaTeX TikZ thành hình ảnh SVG để tạo ra biểu đồ và hình ảnh toán học sắc nét, có thể mở rộng",
-    "tags": ["latex", "svg", "visualization", "diagram", "math"]
+    "description": "Chuyển đổi mã TeX TikZ thành hình ảnh SVG để tạo ra biểu đồ và hình ảnh toán học sắc nét, có thể mở rộng",
+    "tags": ["TeX", "svg", "visualization", "diagram", "math"]
   }
 }
