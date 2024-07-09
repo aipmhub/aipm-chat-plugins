@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "数学图像",
-    "description": "将TeX TikZ代码转换为SVG图像，获得清晰、可缩放的数学图表和可视化效果",
-    "tags": ["TeX", "svg", "visualization", "diagram", "math"]
+    "description": "将LaTeX TikZ代码转换为SVG图像，获得清晰、可缩放的数学图表和可视化效果",
+    "tags": ["LaTeX", "svg", "visualization", "diagram", "math"]
   }
 }

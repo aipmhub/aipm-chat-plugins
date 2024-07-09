@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Matematik Resmi",
-    "description": "TeX TikZ kodunu keskin, ölçeklenebilir matematik diyagramları ve görselleştirmeler için SVG resimlerine dönüştür",
-    "tags": ["TeX", "svg", "görselleştirme", "diyagram", "matematik"]
+    "description": "LaTeX TikZ kodunu keskin, ölçeklenebilir matematik diyagramları ve görselleştirmeler için SVG resimlerine dönüştür",
+    "tags": ["LaTeX", "svg", "görselleştirme", "diyagram", "matematik"]
   }
 }

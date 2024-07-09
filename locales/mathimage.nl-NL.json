@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Wiskunde Afbeelding",
-    "description": "Converteer TeX TikZ-code naar SVG-afbeeldingen voor heldere, schaalbare wiskundige diagrammen en visualisaties",
-    "tags": ["TeX", "svg", "visualisatie", "diagram", "wiskunde"]
+    "description": "Converteer LaTeX TikZ-code naar SVG-afbeeldingen voor heldere, schaalbare wiskundige diagrammen en visualisaties",
+    "tags": ["LaTeX", "svg", "visualisatie", "diagram", "wiskunde"]
   }
 }

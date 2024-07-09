@@ -6,9 +6,9 @@
 
 <sup>By **[@AiPMHub](https://github.com/aithoughts/chat-plugin-image-gadgets)** on **2024-07-09**</sup>
 
-将TeX TikZ代码转换为SVG图像，获得清晰、可缩放的数学图表和可视化效果
+将LaTeX TikZ代码转换为SVG图像，获得清晰、可缩放的数学图表和可视化效果
 
-`TeX` `svg` `visualization` `diagram` `math`
+`LaTeX` `svg` `visualization` `diagram` `math`
 
 <div align="right">
 

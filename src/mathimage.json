@@ -5,9 +5,9 @@
   "manifest": "https://chat-plugin-mathimage.theforage.cn/manifest.json",
   "meta": {
     "avatar": "📐",
-    "tags": ["TeX", "svg", "visualization", "diagram", "math"],
+    "tags": ["LaTeX", "svg", "visualization", "diagram", "math"],
     "title": "Math Image",
-    "description": "Convert TeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations"
+    "description": "Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations"
   },
   "schemaVersion": 1,
   "createdAt": "2024-07-09"
