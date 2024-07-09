@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Obraz matematyczny",
+    "description": "Konwertuj kod LaTeX TikZ na obrazy SVG dla ostrych, skalowalnych diagramów i wizualizacji matematycznych",
+    "tags": ["latex", "svg", "wizualizacja", "diagram", "matematyka"]
+  }
+}

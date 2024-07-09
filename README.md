@@ -1,6 +1,22 @@
 <h1>AiPM Chat Plugins Index</h1>
 
-**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS --> 
+**English** · [简体中文](./README.zh-CN.md)<!-- AWESOME PLUGINS -->
+
+### Math Image
+
+<sup>By **[@AiPMHub](https://github.com/aithoughts/chat-plugin-image-gadgets)** on **2024-07-09**</sup>
+
+Convert LaTeX TikZ code into SVG images for crisp, scalable mathematical diagrams and visualizations
+
+`latex` `svg` `visualization` `diagram` `math`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### Car Brands Gadget
 
@@ -175,5 +191,3 @@ Query search engine to get information
 [![][back-to-top]](#readme-top)
 
 </div>
-
- 

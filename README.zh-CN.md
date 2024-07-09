@@ -1,6 +1,22 @@
 <h1>AiPM Chat 插件索引</h1>
 
-[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS --> 
+[English](./README.md) · **简体中文**<!-- AWESOME PLUGINS -->
+
+### 数学图像
+
+<sup>By **[@AiPMHub](https://github.com/aithoughts/chat-plugin-image-gadgets)** on **2024-07-09**</sup>
+
+将LaTeX TikZ代码转换为SVG图像，获得清晰、可缩放的数学图表和可视化效果
+
+`latex` `svg` `visualization` `diagram` `math`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
 
 ### 汽车品牌小工具
 
@@ -175,5 +191,3 @@
 [![][back-to-top]](#readme-top)
 
 </div>
-
- 

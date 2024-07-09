@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Imagen Matemática",
+    "description": "Convierte código LaTeX TikZ en imágenes SVG para diagramas y visualizaciones matemáticas nítidas y escalables",
+    "tags": ["latex", "svg", "visualización", "diagrama", "matemáticas"]
+  }
+}
